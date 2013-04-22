@@ -1,0 +1,14 @@
+{
+    "name": "node-git-cmd",
+    "description": "a thin nodejs layer to access git CLI",
+    "version": "0.0.1",
+    "author": {
+      "name": "Wenyuan Chi",
+      "email": "cwenyuan@gmail.com",
+      "url": "https://github.com/wychi/node-git-cmd"
+    },
+    "main": "./lib/git.js",
+    "dependencies" : {
+        "underscore": "*"
+    }
+}
